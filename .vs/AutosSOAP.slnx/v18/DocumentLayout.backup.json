@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\services\\iautoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:services\\iautoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\data\\autosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:data\\autosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\services\\autoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:services\\autoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|c:\\users\\user\\desktop\\c#\\ejercicios en clase\\autossoap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AAA644-62F7-7D32-5CB5-500214650237}|AutosSOAP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Services\\AutoService.cs",
+              "RelativeDocumentMoniker": "Services\\AutoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Services\\AutoService.cs",
+              "RelativeToolTip": "Services\\AutoService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:26:45.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:26:06.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:25:28.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-24T14:34:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutosDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Data\\AutosDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AutosDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Data\\AutosDBContext.cs",
+              "RelativeToolTip": "Data\\AutosDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:24:26.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAutoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Services\\IAutoService.cs",
+              "RelativeDocumentMoniker": "Services\\IAutoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Services\\IAutoService.cs",
+              "RelativeToolTip": "Services\\IAutoService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:27:22.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C#\\ejercicios en clase\\AutosSOAP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:29:43.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
