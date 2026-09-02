@@ -68,8 +68,3 @@ Haz clic en cualquiera de las peticiones para abrirla.
 Verificación de URL: Verifica que la URL de la petición en Postman coincida con el puerto donde se está ejecutando tu aplicación localmente (ej. https://localhost:TU_PUERTO/...). Si el puerto es diferente, actualiza la URL en la petición.
 Haz clic en el botón azul "Send" (Enviar).
 En la parte inferior (sección Body de respuesta), recibirás la respuesta del servicio SOAP en formato XML, demostrando que la conexión a la base de datos y la lógica funcionan correctamente.
-### ¿Qué mejoró en esta versión?
-*   **Paso 3 de Postman eliminado**: Ya no les enseñamos a construir el XML ni a poner los Headers manuales, porque todo eso ya viene en tu archivo exportado.
-*   **Enfoque en la importación**: Les explico exactamente dónde está el botón "Import" en Postman, y les indico que busquen el archivo en tu carpeta `/CARTERO`.
-*   **Verificación de URL en Postman**: Añadí un paso súper importante para recordarles que verifiquen el puerto (ej. `localhost:5001`), ya que a veces Visual Studio le asigna un puerto distinto a cada persona, y solo tendrán que cambiar ese numerito en la URL de tu petición exportada.
-*   **Flujo más claro**: Los títulos dicen "Paso 1, Paso 2, etc." para que la persona que lo revise sienta que es una guía infalible.
